@@ -18,4 +18,4 @@ Python, pandas, matplotlib, Google Colab
 [Formula 1 World Championship (1950-2024) - Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
 
 ## Leia a matéria completa
-[Em breve]
+(https://medium.com/@debarros.rai/analisando-74-anos-de-f%C3%B3rmula-1-de-que-vale-uma-pole-position-cf756432a616)
